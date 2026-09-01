@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Arissa Burns")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence and Data Analytics/Data Science")
+print("Skill Goal: Full-Stack Software Development")
